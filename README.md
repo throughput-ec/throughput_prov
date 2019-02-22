@@ -6,6 +6,8 @@ ESIP (https://github.com/ESIPFed/provisium).  It is
 dramatically different to apply lessons learned.  It has
 been updated as part of EarthCube THROUGHPUT.
 
+[![ThroughputPROV](https://img.youtube.com/vi/ZVVf4PgeeUM/0.jpg)](https://www.youtube.com/watch?v=ZVVf4PgeeUM&feature=youtu.be&t=24 "Throughput PROV")
+
 The code has been placed under the main Provisium repo 
 listed above.  This repository will focus on the settings, 
 deployment codes that Throughput will then use to enable this
