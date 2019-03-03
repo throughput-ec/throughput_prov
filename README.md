@@ -37,6 +37,10 @@ system and the location of your SPARQL endpoint.
 
 General approach is:  
 ```
+export MINIO_HOST=clear.local
+export MINIO_PORT=9000
+export MINIO_ACCESS_KEY=AKIAIOSFODNN7EXAMPLE
+export MINIO_SECRET_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 git clone https://github.com/ESIPFed/provisium
 cd provisium
 go run cmd/provisium/main.go 
